@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConnectionTryerLibrary/ConnectionTryerLibrary.csproj" />
+  <Project Path="TryerApp/TryerApp.csproj" />
+</Solution>
